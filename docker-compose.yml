@@ -1,0 +1,8 @@
+services:
+  mongodb:
+    image: "mongo:latest"
+    ports:
+      - "27018:27017"
+    volumes:
+      - ./data:/data/db
+      - ./entrypoint.sh:/entrypoint.sh entrypoint:["/entrypoint.sh"]
