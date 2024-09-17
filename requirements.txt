@@ -1,0 +1,15 @@
+pandas
+StandardScaler
+fastparquet
+pyarrow
+geopy
+shapely
+geopandas
+fastf1
+dash
+dash_core_components
+dash_html_components
+plotly
+autotrain-advanced
+seaborn
+lxml
