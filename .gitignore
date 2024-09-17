@@ -1,0 +1,7 @@
+.idea/
+.venv/
+Datas/
+Datas.zip
+autotrain*
+*.csv
+datas/
