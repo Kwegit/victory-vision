@@ -11,5 +11,4 @@ def replace_svg_with_png(input_file, output_file):
 
 input_file = '../Datas/le_merge_image.csv'
 output_file = ('../Datas/le_merge_image_repaired.csv')
-
 replace_svg_with_png(input_file, output_file)
