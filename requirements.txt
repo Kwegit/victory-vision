@@ -13,3 +13,4 @@ plotly
 autotrain-advanced
 seaborn
 lxml
+streamlit
